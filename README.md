@@ -1,0 +1,1 @@
+# plugins-stars-rating

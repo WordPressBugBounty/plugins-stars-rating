@@ -2,8 +2,8 @@
 Contributors: fahidjavid
 Tags: comments, rating, reviews, stars, shortcode
 Requires at least: 5.0
-Tested up to: 6.7.1
-Stable tag: 4.0.5
+Tested up to: 6.8.1
+Stable tag: 4.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,6 +56,14 @@ Its main features are as follows:
 6. Stars Rating display on the comments page (backend)
 
 == Changelog ==
+
+= 4.0.6
+* Fixed average rating display logic based on enabled/disabled custom post types (CPTs)
+* Resolved issue with rating display on individual comments
+* Improved performance and optimized query handling
+* Refactored large portions of the codebase for better readability and maintainability
+* Updated translation (.pot) file for improved localization support
+* Tested compatibility with WordPress 6.8.1
 
 = 4.0.5
 * Updated language file
